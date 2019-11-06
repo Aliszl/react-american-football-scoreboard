@@ -53,7 +53,8 @@
 }
 
 .home__score,
-.away__score {
+.away__score 
+{
   font-family: "Ozone";
   font-size: 7rem;
   width: 90%;
@@ -115,8 +116,10 @@
 
 .homeButtons__touchdown,
 .homeButtons__fieldGoal,
+.homeButtons__reset,
 .awayButtons__touchdown,
-.awayButtons__fieldGoal {
+.awayButtons__fieldGoal, 
+.awayButtons__reset {
   margin: 1rem;
   border-radius: 4px;
 }
